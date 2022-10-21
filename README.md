@@ -1,4 +1,4 @@
-# JAVA_TASKS BRANCH
+# JAVA_TASKS
 ### Description
 There are 5 packages in src with 5 completed tasks.
 
